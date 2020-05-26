@@ -1,4 +1,4 @@
-# template-colllection
+# template-collection
  My collection of page templates and site menus
 <br>
 Если кто-то хочет помочь разработчику деньгами, это можно сделать по ссылке ниже.
